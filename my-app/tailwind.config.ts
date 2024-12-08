@@ -17,6 +17,10 @@ export default {
         Fredoka: ["Fredoka"],
         ChelaOne: ["Chela One"],
       },
+      screens: {
+        "mobile" : {
+          max: "500px"}
+      }
     },
   },
   plugins: [],
